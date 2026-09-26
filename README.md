@@ -40,8 +40,8 @@ Sou um entusiasta a programação, utilizando código e análise de dados para t
 ## 📊 Meus status do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Murilo2209&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Murilo2209&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Murilo2209-br&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Murilo2209-br&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=tokyonight" />
 </p>
 
 ---
